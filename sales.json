@@ -1,0 +1,1 @@
+{ "name": "flare", "children": [ { "name": "analytics", "children": [ { "name": "sales", "children": [{"name":"electronics","size":5950},{"name":"books","size":5180},{"name":"furniture","size":3998},{"name":"clothing","size":4992},{"name":"office supplies","size":4978}]}]}]}
